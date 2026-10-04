@@ -35,6 +35,6 @@ Examples
 
 Input	    Output
 1234	    Valid PIN
-987	        Invalid PIN
--1234	    Invalid PIN
-12345	    Invalid PIN
+987	     Invalid PIN
+-1234	   Invalid PIN
+12345	   Invalid PIN
