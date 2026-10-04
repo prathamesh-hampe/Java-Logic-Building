@@ -1,6 +1,6 @@
-**# Q1 - Validating a Banking PIN 🏦**
+# Q1 - Validating a Banking PIN 🏦
 
-**## Problem Statement**
+## Problem Statement
 
 A banking application requires users to enter a secure 4-digit Personal Identification Number (PIN) before accessing their account.
 
@@ -20,21 +20,21 @@ Valid PIN
 Otherwise, it should display:
 Invalid PIN
 
-**Input**
+Input
 An integer pin
 
-**Output**
+Output
 Valid PIN 
    or 
 Invalid PIN
 
-**Constraints**
+Constraints
 -10⁹ ≤ pin ≤ 10⁹
 
-**Examples**
+Examples
 
-**Input**	    **Output**
-  1234	       Valid PIN
-  987	          Invalid PIN
-  -1234	       Invalid PIN
-  12345	       Invalid PIN
+Input	    Output
+1234	    Valid PIN
+987	        Invalid PIN
+-1234	    Invalid PIN
+12345	    Invalid PIN
