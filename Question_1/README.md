@@ -33,8 +33,9 @@ Constraints
 
 Examples
 
-Input	    Output
-1234	    Valid PIN
-987	     Invalid PIN
--1234	   Invalid PIN
-12345	   Invalid PIN
+| # | Input	 |   Output     |
+|---|--------|--------------|
+| 1 | 1234	 |  Valid PIN   |
+| 2 | 987	 |  Invalid PIN |
+| 3 | -1234	 |  Invalid PIN |
+| 4 | 12345	 |  Invalid PIN |
