@@ -34,7 +34,7 @@ Constraints
 Examples
 
 | # | Input	 |   Output     |
-|---|-----------|--------------|
+|---|------------|--------------|
 | 1 | 1234	 |  Valid PIN   |
 | 2 | 987	 |  Invalid PIN |
 | 3 | -1234	 |  Invalid PIN |
