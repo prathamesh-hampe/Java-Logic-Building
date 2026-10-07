@@ -26,9 +26,9 @@ Valid Number or Invalid Number
 
 Examples
 
-| Input | Output |
-|-------|--------|
-| `15` | `Valid Number` |
-| `30` | `Valid Number` |
-| `9` | `Invalid Number` |
-| `10` | `Invalid Number` |
+| Input |      Output      |
+|-------|------------------|
+|  15   |  Valid Number    |
+|  30   |  Valid Number    |
+|  9    |  Invalid Number  |
+|  10   |  Invalid Number  |
