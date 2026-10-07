@@ -28,7 +28,7 @@ Invalid Transaction ID
 
 Examples
 
-| # | Input|     Output          |
+| # | Input |        Output          |
 |---|-------|------------------------|
 | 1 | 45892 | Total Digits: 5        |
 | 2 | 0	    | Total Digits: 1        |
