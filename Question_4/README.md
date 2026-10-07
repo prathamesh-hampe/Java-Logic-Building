@@ -25,7 +25,7 @@ Ends With 5 or Does Not End With 5
 Examples
 
 | # | Input	| Output              |
-|---|-------|---------------------|
+|---|----------|---------------------|
 | 1 | 145	| Ends With 5         |
 | 2 | 32	| Does Not End With 5 |
 | 3 | -75	| Ends With 5         |
