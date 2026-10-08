@@ -30,7 +30,7 @@ The appropriate number category.
 Examples
 
 | # | Input |	     Output     |
-|---|-------|-----------------|
-| 1 | 10| Positive Number |
-| 2 | -2| Negative Number |
+|---|-------|------------------|
+| 1 | 10    | Positive Number |
+| 2 | -2    | Negative Number |
 | 3 | 0	    | Zero            |
