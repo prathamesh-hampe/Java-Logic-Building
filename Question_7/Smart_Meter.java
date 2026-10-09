@@ -1,4 +1,3 @@
-package Question_7;
 import java.util.*;
 
 public class Smart_Meter 
@@ -14,7 +13,7 @@ public class Smart_Meter
 
         while(reading > 0) 
         {
-            sum =+ reading % 10;
+            sum += reading % 10;
             reading /= 10;
         }
         System.out.println("Sum of Digits: " + sum);
