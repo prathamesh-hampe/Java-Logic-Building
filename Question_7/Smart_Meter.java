@@ -1,3 +1,4 @@
+package Question_7;
 import java.util.*;
 
 public class Smart_Meter 
