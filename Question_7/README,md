@@ -1,0 +1,26 @@
+# Q7 - Smart Meter – Sum of Digits ⚡
+
+## Problem Statement
+
+An electricity monitoring device stores readings as integer values.
+
+To analyze consumption patterns, the system must compute the sum of all digits in the reading.
+
+If the number is negative, consider only its absolute value.
+
+## Input
+
+An integer `reading`
+
+## Output
+
+Print the result in the format:
+
+`Sum of Digits: X`
+
+## Examples
+
+| # | Input  | Output              |
+|---|--------|---------------------|
+| 1 | `123`  | `Sum of Digits: 6`  |
+| 2 | `-407` | `Sum of Digits: 11` |
