@@ -22,5 +22,5 @@ Print the result in the format:
 
 | # | Input  | Output              |
 |---|--------|---------------------|
-| 1 | `123`  | `Sum of Digits: 6`  |
-| 2 | `-407` | `Sum of Digits: 11` |
+| 1 | `123   | Sum of Digits: 6    |
+| 2 | `407   | Sum of Digits: 11   |
