@@ -13,7 +13,7 @@ public class Last_Digit_Parity_Checker
         }
         else 
         {
-            System.out.println("Last Digit Odd");
+            System.out.println("Last Digit Odd"); 
         }
         sc.close();
     }
