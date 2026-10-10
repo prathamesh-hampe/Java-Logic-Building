@@ -7,7 +7,7 @@ public class Voting_Machine_ID_Validation
         Scanner sc = new Scanner(System.in);
         int ID = sc.nextInt();
 
-        if (ID > 5) 
+        if (ID > 99999) 
         {
             System.out.println("Accepted");
         }
