@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 public class Fraud_Detection_Palindrome_Transaction 
