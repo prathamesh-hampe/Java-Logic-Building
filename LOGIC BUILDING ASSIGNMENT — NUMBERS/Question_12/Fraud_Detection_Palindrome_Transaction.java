@@ -1,30 +1,38 @@
 
 import java.util.*;
 
-public class Fraud_Detection_Palindrome_Transaction {
-    public static void main(String[] args) {
+public class Fraud_Detection_Palindrome_Transaction 
+{
+    public static void main(String[] args) 
+    {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
 
-        if (num < 0) {
+        if (num < 0) 
+        {
             System.out.println("Not Palindrome");
-        } else {
+        } 
+        else 
+        {
             int original = num;
             int rev = 0;
 
-            while (num > 0) {
+            while (num > 0) 
+            {
                 int digit = num % 10;
                 rev = rev * 10 + digit;
                 num = num / 10;
             }
 
-            if (original == rev) {
+            if (original == rev) 
+            {
                 System.out.println("Palindrome");
-            } else {
+            }
+            else 
+            {
                 System.out.println("Not Palindrome");
             }
         }
-
         sc.close();
     }
 }
