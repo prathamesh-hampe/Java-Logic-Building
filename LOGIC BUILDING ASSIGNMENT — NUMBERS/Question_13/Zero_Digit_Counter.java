@@ -24,7 +24,6 @@ public class Zero_Digit_Counter
                 {
                     count++;
                 }
-
                 num = num / 10;
             }
         }
