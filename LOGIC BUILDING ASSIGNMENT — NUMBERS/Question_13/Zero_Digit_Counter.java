@@ -28,7 +28,6 @@ public class Zero_Digit_Counter
                 num = num / 10;
             }
         }
-
         System.out.println("Count of Zero Digits: " + count);
         sc.close();
     }
