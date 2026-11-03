@@ -10,7 +10,7 @@ A number is considered `Valid` if every digit is the same.
 
 | Input |   Output  |
 |-------|-----------|
-| 7777  |  Valid    |
+|  7777 |  Valid    |
 |  222  |  Valid    |
 |  121  | Not Valid |
 
