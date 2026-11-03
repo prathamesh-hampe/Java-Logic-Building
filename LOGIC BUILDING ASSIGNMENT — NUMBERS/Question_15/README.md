@@ -8,11 +8,11 @@ A number is considered `Valid` if every digit is the same.
 
 ## Examples
 
-|Input |   Output  |
-|------|-----------|
-| 7777 |  Valid    |
-|  222 |  Valid    |
-|  121 | Not Valid |
+| Input |   Output  |
+|-------|-----------|
+| 7777  |  Valid    |
+|  222  |  Valid    |
+|  121  | Not Valid |
 
 ### Rules
 
