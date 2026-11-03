@@ -38,6 +38,7 @@ public class Identical_Digit_Validator
                 System.out.println("Not Valid");
             }
         }
+        
         sc.close();
     }
 }
